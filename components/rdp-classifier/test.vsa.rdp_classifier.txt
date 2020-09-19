@@ -1,0 +1,15 @@
+26639d9f66c6c2106996b1c162605ff8		Root	rootrank	1.0	Archaea	domain	1.0	"Euryarchaeota"	phylum	1.0	Methanobacteria	class	1.0	Methanobacteriales	order	1.0	Methanobacteriaceae	family	1.0	Methanobrevibacter	genus	1.0
+93622cf2aaee6ad8ba4757df639ae304		Root	rootrank	1.0	Bacteria	domain	1.0	"Bacteroidetes"	phylum	1.0	"Bacteroidia"	class	1.0	"Bacteroidales"	order	1.0	"Porphyromonadaceae"	family	1.0	Parabacteroides	genus	0.31
+c982a8dac1a7a5c026b752df0f962224		Root	rootrank	1.0	Bacteria	domain	1.0	Firmicutes	phylum	0.98	Clostridia	class	0.93	Clostridiales	order	0.93	Christensenellaceae	family	0.14	Christensenella	genus	0.14
+c5f242fcd8a4e64a7ead3c81933e4ed8		Root	rootrank	1.0	Bacteria	domain	1.0	"Bacteroidetes"	phylum	1.0	"Bacteroidia"	class	1.0	"Bacteroidales"	order	1.0	"Porphyromonadaceae"	family	1.0	Parabacteroides	genus	0.35
+9337d5571c3f1350debea510d6bdd099		Root	rootrank	1.0	Archaea	domain	1.0	"Euryarchaeota"	phylum	1.0	Methanobacteria	class	1.0	Methanobacteriales	order	1.0	Methanobacteriaceae	family	1.0	Methanosphaera	genus	1.0
+97d0c4fbbcbc79f790c0b31345fdd375		Root	rootrank	1.0	Bacteria	domain	1.0	Firmicutes	phylum	0.99	Clostridia	class	0.96	Clostridiales	order	0.96	Ruminococcaceae	family	0.89	Sporobacter	genus	0.63
+5411c91491565286c22a89c55f696e4a		Root	rootrank	1.0	Bacteria	domain	0.95	"Proteobacteria"	phylum	0.46	Deltaproteobacteria	class	0.39	Bdellovibrionales	order	0.37	Bdellovibrionaceae	family	0.36	Vampirovibrio	genus	0.36
+25e68edc5d02950e401818f071878b5f		Root	rootrank	1.0	Bacteria	domain	1.0	"Bacteroidetes"	phylum	1.0	"Bacteroidia"	class	1.0	"Bacteroidales"	order	1.0	"Prevotellaceae"	family	1.0	Prevotella	genus	1.0
+df529021d76b9274308f68aca7517a44		Root	rootrank	1.0	Bacteria	domain	1.0	Firmicutes	phylum	0.96	Clostridia	class	0.92	Clostridiales	order	0.92	Ruminococcaceae	family	0.63	Anaerotruncus	genus	0.19
+b95062a0fc3836faf5317c2104fc04e3		Root	rootrank	1.0	Bacteria	domain	1.0	Firmicutes	phylum	0.99	Clostridia	class	0.98	Clostridiales	order	0.98	Lachnospiraceae	family	0.87	Parasporobacterium	genus	0.21
+44ce1f83c5c157ed57cd63816b898f4a		Root	rootrank	1.0	Bacteria	domain	1.0	"Bacteroidetes"	phylum	1.0	"Bacteroidia"	class	1.0	"Bacteroidales"	order	1.0	"Porphyromonadaceae"	family	0.99	Barnesiella	genus	0.99
+3f3cb04e67a54ff7034d88fa0c3a29e2		Root	rootrank	1.0	Bacteria	domain	1.0	Firmicutes	phylum	0.93	Clostridia	class	0.93	Clostridiales	order	0.93	Ruminococcaceae	family	0.93	Gemmiger	genus	0.72
+010be48990606c2c3070f078e16e85ba		Root	rootrank	1.0	Bacteria	domain	1.0	"Bacteroidetes"	phylum	0.86	"Bacteroidia"	class	0.83	"Bacteroidales"	order	0.83	"Prevotellaceae"	family	0.81	Prevotella	genus	0.72
+9fd944b60ec63ff4c85b3da3ebd73b10		Root	rootrank	1.0	Bacteria	domain	1.0	"Bacteroidetes"	phylum	1.0	"Bacteroidia"	class	1.0	"Bacteroidales"	order	1.0	"Prevotellaceae"	family	1.0	Prevotella	genus	1.0
+ffc68b89a25953287eaf5a0251955b3b		Root	rootrank	1.0	Bacteria	domain	0.72	"Planctomycetes"	phylum	0.07	Planctomycetia	class	0.07	Planctomycetales	order	0.07	Planctomycetaceae	family	0.07	Pirellula	genus	0.05

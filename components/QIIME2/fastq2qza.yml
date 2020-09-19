@@ -1,0 +1,4 @@
+fastqDir:
+  class: Directory
+  location: ../../dat/
+project: test

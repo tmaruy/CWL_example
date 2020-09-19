@@ -1,0 +1,3 @@
+biom:
+  class: File
+  location: test.table.biom

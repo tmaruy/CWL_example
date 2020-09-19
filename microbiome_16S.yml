@@ -1,0 +1,6 @@
+fastq_directory: 
+  class: Directory
+  path: dat_light/
+project_name: test
+p_trunc_len_f: 250
+p_trunc_len_r: 250

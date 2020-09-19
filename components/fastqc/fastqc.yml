@@ -1,0 +1,3 @@
+fastq:
+  class: File
+  location: /Users/maruyamatooru/Desktop/Learning/CWL/microbiome_16S/dat/ERR3668533_1.fastq.gz
